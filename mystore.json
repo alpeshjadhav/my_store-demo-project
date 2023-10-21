@@ -1,0 +1,78 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "vivo T2x 5G (Marine Blue, 128 GB)  (8 GB RAM)",
+      "productPrice": 15999,
+      "productImage": "assets/productImages/p1.jpg",
+      "productDate": "2022/02/01",
+      "productDiscount": 0.1,
+      "productRating": 3.5
+    },
+    {
+      "id": 2,
+      "productName": "APPLE iPhone 14 (Midnight, 128 GB)",
+      "productPrice": 70999,
+      "productImage": "assets/productImages/p2.jpg",
+      "productDate": "2022/03/01",
+      "productDiscount": 0.2,
+      "productRating": 2.5
+    }
+  ],
+  "users": [
+    {
+      "fullname": "Chevalier Veljes",
+      "username": "cveljes@gmail.com",
+      "password": "1234",
+      "age": 20,
+      "mobiles": [],
+      "addresses": [
+        {
+          "addressline1": "",
+          "addressline2": "",
+          "state": "",
+          "city": "",
+          "pincode": 0
+        }
+      ],
+      "id": 1
+    },
+    {
+      "fullname": "Bette Greader",
+      "username": "betteg@gmail.com",
+      "password": "1234",
+      "age": 27,
+      "mobiles": [],
+      "addresses": [
+        {
+          "addressline1": "",
+          "addressline2": "",
+          "state": "",
+          "city": "",
+          "pincode": 0
+        }
+      ],
+      "id": 2
+    },
+    {
+      "fullname": "Alpesh Jadhav",
+      "username": "alpeshj@gmail.com",
+      "password": "1234",
+      "age": 27,
+      "mobiles": [
+        8898434165,
+        9702218096
+      ],
+      "addresses": [
+        {
+          "addressline1": "SBI Colony",
+          "addressline2": "Malad East",
+          "state": "Maharashtra",
+          "city": "Mumbai",
+          "pincode": 400097
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
